@@ -4,7 +4,7 @@ span.none {
   float: left;
   width: 5em;
   margin-right: 1em;
-  background: url("check.gif") top right no-repeat;
+  background: url("/img/check.gif") top right no-repeat;
 }
 
 span.new {
@@ -39,7 +39,7 @@ span.cool {
   float: left;
   width: 5em;
   color: rgb(64,64,64);
-  background: rgb(192,224,255) url("ice.gif") top repeat-x;
+  background: rgb(192,224,255) url("/img/ice.gif") top repeat-x;
   margin-right: 1em;
 }
 
