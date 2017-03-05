@@ -2,3 +2,51 @@ title = "openMSX"
 baseurl = "http://openmsx.damad.be/"
 languageCode = "en-us"
 theme = "beautifulhugo"
+
+[Params]
+  subtitle = "the MSX emulator that aims for perfection"
+  logo = "img/penguin.png"
+  favicon = "img/favicon.ico"
+
+[Author]
+  name = "The openMSX Team"
+  facebook = "openMSX"
+  github = "openMSX"
+
+[[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    weight = 2
+
+[[menu.main]]
+    name = "Documentation"
+    url = "/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Screenshots"
+    url = "/"
+    weight = 4
+    
+[[menu.main]]
+    name = "3rd Party"
+    url = "/"
+    weight = 5
+ 
+[[menu.main]]
+    parent = "contact"
+    name = "Contact"
+    url = "/"
+    weight = 1
+    
+[[menu.main]]
+    parent = "contact"
+    name = "Forum (MRC)"
+    url = "http://www.msx.org/forum/semi-msx-talk/openmsx"
+    weight = 2
+    
+[[menu.main]]
+    parent = "contact"
+    name = "Project Page"
+    url = "https://github.com/openMSX/"
+    weight = 3
