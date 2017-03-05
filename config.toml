@@ -1,0 +1,4 @@
+title = "openMSX"
+baseurl = "http://openmsx.damad.be/"
+languageCode = "en-us"
+theme = "beautifulhugo"
