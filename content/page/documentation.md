@@ -6,3 +6,11 @@ title = "documentation"
 
 +++
 
+# Most Frequently Asked Questions
+
+# Installing and Running openMSX
+
+# Installing and Running Catapult
+
+# Documentation for Developers
+
