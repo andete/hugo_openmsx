@@ -12,31 +12,44 @@ theme = "beautifulhugo"
   name = "The openMSX Team"
   facebook = "openMSX"
   github = "openMSX"
+  
+[[menu.main]]
+    identifier = "doc"
+    name = "Doc"
+    weight = 1
 
 [[menu.main]]
-    name = "Docs"
+    parent = "doc"
+    name = "Documentation"
     url = "/"
     weight = 1
     
 [[menu.main]]
+    parent = "doc"
     name = "Screenshots"
     url = "/"
     weight = 2
     
 [[menu.main]]
+    parent = "doc"
     name = "Features"
     url = "/page/features/"
     weight = 3
     
 [[menu.main]]
+    url = "/page/download/"
+    name = "Download"
+    weight = 2
+
+[[menu.main]]
     name = "3rd Party"
     url = "/"
-    weight = 4
+    weight = 3
     
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    weight = 5
+    weight = 4
 
 
 
