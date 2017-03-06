@@ -21,13 +21,13 @@ theme = "beautifulhugo"
 [[menu.main]]
     parent = "doc"
     name = "Documentation"
-    url = "/"
+    url = "/page/documentation/"
     weight = 1
     
 [[menu.main]]
     parent = "doc"
     name = "Screenshots"
-    url = "/"
+    url = "/page/screenshots/"
     weight = 2
     
 [[menu.main]]
