@@ -43,7 +43,7 @@ theme = "beautifulhugo"
 
 [[menu.main]]
     name = "3rd Party"
-    url = "/"
+    url = "/page/3rdparty/"
     weight = 3
     
 [[menu.main]]
