@@ -2,3 +2,5 @@
 /public/
 *.swp
 *~
+/static/manual/
+/static/vdp-vram-timing/
