@@ -9,7 +9,7 @@ title = "Features"
 
 Here are some highlights of the features of the latest release (0.13.0).
 
-# Legend
+## Legend
 
 <ul class="features">
     <li>
@@ -31,7 +31,7 @@ Here are some highlights of the features of the latest release (0.13.0).
     </li>
 </ul>
 
-# General
+## General
 
 <ul class="features">
      <li>
@@ -170,7 +170,7 @@ Here are some highlights of the features of the latest release (0.13.0).
       </li>
 </ul>
 
-# MSX hardware emulated
+## MSX hardware emulated
 
  <ul class="features">
       <li>
@@ -648,7 +648,7 @@ Here are some highlights of the features of the latest release (0.13.0).
       </li>
 </ul>
 
-# Emulator Extras
+## Emulator Extras
 
   <ul class="features">
       <li>
@@ -893,7 +893,7 @@ Here are some highlights of the features of the latest release (0.13.0).
       </li>
     </ul>
 
-# Coming Up &hellip;
+## Coming Up &hellip;
 
  Here are some highlights of features and improvements that are already in our source code and are likely to be in the next release (see our [commit log](https://github.com/openMSX/openMSX/commits/master) for details and history):
  

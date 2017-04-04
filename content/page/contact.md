@@ -7,9 +7,9 @@ bigimg = ""
 +++
 
 
-# IRC
+## IRC
 
-## [\#openmsx on Freenode](irc://irc.freenode.net/openmsx)
+### [\#openmsx on Freenode](irc://irc.freenode.net/openmsx)
 
 You'll find most of the developers here on a regular basis. Don't hesitate to visit, don't hesitate to ask anything openMSX related. Remarks, suggestions, ideas—also for Catapult and C-BIOS—are most welcome!
 
@@ -17,19 +17,19 @@ For your convenience, we can also offer you web-based access to our IRC channel.
 
 Note that we are not reading IRC 24 hours per day, so if no-one responds, please stick around or try again later.
 
-# Discussion Forums
+## Discussion Forums
 
-## [openMSX forum on MSX Resource Center](http://www.msx.org/forum/semi-msx-talk/openmsx)
+### [openMSX forum on MSX Resource Center](http://www.msx.org/forum/semi-msx-talk/openmsx)
 
 Discussions on openMSX, Catapult and C-BIOS.
 
-# Bug Reports and Feature Requests
+## Bug Reports and Feature Requests
 
-## [openMSX Issue Tracker](https://github.com/openMSX/openMSX/issues)
+### [openMSX Issue Tracker](https://github.com/openMSX/openMSX/issues)
 
 You can report bugs or request new features for openMSX itself in the issue tracker on GitHub.
 
-## [Catapult Issue Tracker](https://github.com/openMSX/wxcatapult/issues)
+### [Catapult Issue Tracker](https://github.com/openMSX/wxcatapult/issues)
 
 You can report bugs or request new features for openMSX Catapult in the issue tracker on GitHub.
 
@@ -37,8 +37,8 @@ You can report bugs or request new features for openMSX Catapult in the issue tr
 
 You can report bugs or request new features for the openMSX Debugger in the issue tracker on GitHub.
 
-# Mailing Lists
+## Mailing Lists
 
-## [SourceForge openMSX mailing lists](http://sourceforge.net/p/openmsx/mailman/)
+### [SourceForge openMSX mailing lists](http://sourceforge.net/p/openmsx/mailman/)
 
 SourceForge hosts a number of mailing lists for openMSX. None of these mailing lists is high-volume; expect just a couple of messages per week. In practice, IRC has replaced these mailing lists.
