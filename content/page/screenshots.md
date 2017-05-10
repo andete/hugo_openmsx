@@ -44,7 +44,7 @@ title = "Screenshots"
 <img src="/img/screenshots/magic_thumb.png" alt="MAGIC" class="img-fluid" />
 </a>
 
-<a href="/img/screenshots/tn-underwater.png" data-toggle="lightbox" data-gallery="screenshots" data-title="Graphics 9000" data-footer="Team Bomba Underwater Demo on Gfx9000 Bx mode">
+<a href="/img/screenshots/tb-underwater.png" data-toggle="lightbox" data-gallery="screenshots" data-title="Graphics 9000" data-footer="Team Bomba Underwater Demo on Gfx9000 Bx mode">
 <img src="/img/screenshots/tb-underwater_thumb.png" alt="Underwater" class="img-fluid" />
 </a>
 
