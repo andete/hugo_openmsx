@@ -37,9 +37,33 @@ theme = "beautifulhugo"
     weight = 3
     
 [[menu.main]]
-    url = "/page/download/"
+    identifier = "download"
     name = "Download"
     weight = 2
+
+[[menu.main]]
+    parent = "download"
+    name = "Windows 64"
+    url = "https://github.com/openMSX/openMSX/releases/download/RELEASE_0_13_0/openmsx-0.13.0-windows-vc-x64-bin-msi.zip"
+    weight = 1
+    
+[[menu.main]]
+    parent = "download"
+    name = "Windows 32"
+    url = "https://github.com/openMSX/openMSX/releases/download/RELEASE_0_13_0/openmsx-0.13.0-windows-vc-x86-bin-msi.zip"
+    weight = 2
+    
+[[menu.main]]
+    parent = "download"
+    name = "Mac OSX"
+    url = "https://github.com/openMSX/openMSX/releases/download/RELEASE_0_13_0/openmsx-0.13.0-mac-x86_64-bin.dmg"
+    weight = 3
+
+[[menu.main]]
+    parent = "download"
+    name = "More downloads"
+    url = "/page/download/"
+    weight = 4
 
 [[menu.main]]
     name = "3rd Party"
@@ -50,8 +74,6 @@ theme = "beautifulhugo"
     identifier = "contact"
     name = "Contact"
     weight = 4
-
-
 
 [[menu.main]]
     parent = "contact"
