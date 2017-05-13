@@ -1,0 +1,12 @@
+* downloads more prominent
+  => most common downloads directly in menu
+* docs more prominent
+* forum link more prominent
+* animation
+  * is distracting (mth)
+  * it doesn't bother me (jyd)
+  => keep for now...
+* limit news to last 3 items
+  => Paginate = 3 setting for theme
+* mth: maybe do a two-column layout with half the page for intro / screenshot / links and the other half for news? and on mobile, just stack the two on top of each other
+* 
