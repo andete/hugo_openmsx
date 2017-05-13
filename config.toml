@@ -44,19 +44,19 @@ theme = "beautifulhugo"
 
 [[menu.main]]
     parent = "download"
-    name = "Windows 64"
+    name = "64bit Windows"
     url = "https://github.com/openMSX/openMSX/releases/download/RELEASE_0_13_0/openmsx-0.13.0-windows-vc-x64-bin-msi.zip"
     weight = 1
     
 [[menu.main]]
     parent = "download"
-    name = "Windows 32"
+    name = "32bit Windows"
     url = "https://github.com/openMSX/openMSX/releases/download/RELEASE_0_13_0/openmsx-0.13.0-windows-vc-x86-bin-msi.zip"
     weight = 2
     
 [[menu.main]]
     parent = "download"
-    name = "Mac OSX"
+    name = "MacOS"
     url = "https://github.com/openMSX/openMSX/releases/download/RELEASE_0_13_0/openmsx-0.13.0-mac-x86_64-bin.dmg"
     weight = 3
 
