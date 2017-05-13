@@ -56,7 +56,7 @@ theme = "beautifulhugo"
     
 [[menu.main]]
     parent = "download"
-    name = "MacOS"
+    name = "macOS"
     url = "https://github.com/openMSX/openMSX/releases/download/RELEASE_0_13_0/openmsx-0.13.0-mac-x86_64-bin.dmg"
     weight = 3
 
