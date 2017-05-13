@@ -7,6 +7,7 @@ theme = "beautifulhugo"
   subtitle = "the MSX emulator that aims for perfection"
   logo = "img/penguin.png"
   favicon = "img/favicon.ico"
+  Paginate = 3
 
 [Author]
   name = "The openMSX Team"
